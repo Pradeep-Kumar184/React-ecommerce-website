@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "name": "Gaurav Taylor",
+      "email": "fairhomefurnishing2019@gmail.com",
+      "password": "123",
+      "mobile": "+918233356364",
+      "id": 6
+    },
+    {
+      "name": "pradeep kumar",
+      "email": "pradeepmahawar1990@gmail.com",
+      "password": "343535",
+      "mobile": "+918233356364",
+      "id": 7
+    },
+    {
+      "name": "pradeep kumar",
+      "email": "housewrapindia@gmail.com",
+      "password": "999999",
+      "mobile": "+918233356364",
+      "id": 8
+    },
+    {
+      "name": "pradeep",
+      "email": "pradeepmahawar1990@gmail.com",
+      "password": "8888888888",
+      "mobile": "+918233356364",
+      "id": 9
+    },
+    {
+      "name": "pradeep kumar",
+      "password": "",
+      "email": "pradeepmahawar1990@gmail.com",
+      "mobile": "+912020202020",
+      "id": 10
+    },
+    {
+      "name": "kamal",
+      "email": "pradeep@123gmail.com",
+      "password": "123",
+      "mobile": "+918233356364",
+      "id": 11
+    },
+    {
+      "name": "pradeep kumar",
+      "email": "housewrapindia@gmail.com",
+      "password": "0000",
+      "mobile": "+918233356364",
+      "id": 12
+    },
+    {
+      "name": "Maqsood makhani khan",
+      "password": "9999",
+      "email": "maqsood@gmail.com",
+      "mobile": "+919799131641",
+      "id": 13
+    },
+    {
+      "name": "pradeep kumar Mahawar",
+      "email": "pradeepmahawar1990@gmail.com",
+      "password": "1111",
+      "mobile": "+9192020202020",
+      "id": 14
+    },
+    {
+      "name": "Gaurav Taylor",
+      "email": "fairhomefurnishing2019@gmail.com",
+      "password": "wwwww",
+      "mobile": "+918233356364",
+      "id": 15
+    },
+    {
+      "name": "pradeep",
+      "email": "ram.123@gmail.com",
+      "password": "123",
+      "mobile": "1234",
+      "id": 16
+    }
+  ]
+}

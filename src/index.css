@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* nav bar css starts */
+.navbar{
+  
+  font-size: 17px;
+  text-transform: uppercase;
+  box-shadow:0 8px 6px -px gray;
+  border-bottom:0px solid gray;
+  
+  
+  
+}
+.nav-link{
+font-weight: 300px ;
+}
+.nav-link.active{
+  border-bottom: 1px solid black;
+}
+/* navbar css end */
+/* pagenotfound css start */
+.not-found h1{
+ font-size: 4em;
+ justify-content: center;
+ text-align: center;
+ display: flex;
+}
+.not-found h3{
+  text-align: center;
+}
+.not-found{
+  text-align: center;
+}
+/* pagenotfound css end */
+/* fotter start */
+.footer a{
+  color:brown;
+  font-size: 15px;
+  text-decoration: none;
+  padding:0px 7px ;
+  
+
+}
+/* foooter end */
+/* span css start */
+span{
+  color: brown;
+  font-size: 20px;
+  margin-right: 10px;
+ 
+}
+/* span css end */
+/* card css */
+.card img{
+  width:200px;
+  height:200px;
+  object-fit: contain;
+}
+/* card css end */
